@@ -57,7 +57,7 @@ Further analysis shows that the areas with the lowest number and density of supe
 
 ## Limitations
 * The primary limitation with my research is that the buffer around the Supercharger was calculated in degrees and not miles, which results in the buffers being oval shaped, becoming narrower as the points travel north. This could potentially be fixed if the project were to be redone with a new coordinate system.
-* My analysis did not factor in any superchargers in Canada, and perhaps the two deadzones that I found could be reached from there.
+* My analysis did not factor in any superchargers in Canada, and perhaps the few deadzones that I found could be reached from there.
 
 ## Further Research
 * Further analysis of the interstate road network could also be a useful tool to identify possible routes where supercharging is not available.
